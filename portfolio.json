@@ -1,0 +1,96 @@
+{
+  "name": "Hala Kabir",
+  "title": "Youngest Certified Professional AI, Blockchain & Chatbot Developer",
+  "tagline": "Building AI-powered applications, teaching Python globally, and innovating with cloud and blockchain",
+
+  "profileImage": "/me.png",
+
+  "about": "I am Hala Kabir, the youngest certified professional AI, blockchain, and chatbot developer. I have completed advanced certifications and fellowship programs in AI and blockchain with top positions. Alongside building real-world AI applications, I am now teaching Python to millions of children and beginners around the world through social media platforms such as YouTube and Facebook. I run live sessions and a step-by-step Python for Beginners course to make programming accessible and fun for everyone.",
+
+  "skills": [
+    "Artificial Intelligence",
+    "Generative AI",
+    "Machine Learning",
+    "Large Language Models (LLMs)",
+    "Blockchain Development",
+    "Chatbot Development",
+    "Python Programming",
+    "Web & App Development",
+    "Google Cloud & Cloud Run",
+    "Teaching & Technical Content Creation",
+    "Hackathon Development",
+    "Startup & Product Building"
+  ],
+
+  "certifications": [
+    {
+      "title": "Generative AI Course",
+      "organization": "AKTI",
+      "achievement": "First Position",
+      "certificateImage": "/certificates/certificate1.png"
+    },
+    {
+      "title": "Pakistan’s First AI & Blockchain Fellowship Program",
+      "organization": "National Fellowship Program",
+      "achievement": "First Position",
+      "certificateImage": "/certificates/certificate2.png"
+    },
+    {
+      "title": "Mastermind Training Startup Course",
+      "organization": "Startup Training Program",
+      "achievement": "Completed",
+      "certificateImage": "/certificates/certificate3.png"
+    }
+  ],
+
+  "educationAndLearning": {
+    "courseraProfile": "",
+    "notes": "Completed multiple Coursera courses including Machine Learning, Large Language Models (LLMs), and The Nuts and Bolts of Machine Learning. Currently continuing advanced learning on Coursera."
+  },
+
+  "experience": [
+    "Participated in 5–7 national and international hackathons during 2025",
+    "Participated in MUX Hackathon 2026",
+    "Built and shipped multiple AI-powered applications",
+    "Actively teaching Python through live sessions and tutorial series"
+  ],
+
+  "sportsAchievements": {
+    "sport": "Taekwondo",
+    "rank": "Black Belt (1st Dan)",
+    "medals": "12 Gold Medals",
+    "role": "Athlete and Trainer",
+    "representation": "Represented Pakistan internationally"
+  },
+
+  "projects": [
+    { "name": "ProJura (Powered by Mux)", "description": "A collaboration platform helping founders and developers connect and pitch ideas. Built with modern web technologies and video integration.", "repoNote": "See GitHub for source code" },
+    { "name": "Nightmare Debugger", "description": "A debugging assistant designed to help developers identify and resolve coding issues efficiently.", "repoNote": "See GitHub for source code" },
+    { "name": "Accountant", "description": "An AI-powered accounting and finance assistance application.", "repoNote": "See GitHub for source code" },
+    { "name": "MuteMate", "description": "A productivity-focused application designed to reduce distractions and improve focus.", "repoNote": "See GitHub for source code" },
+    { "name": "YourOnlineDoctor", "description": "A digital healthcare assistance app enabling users to access medical guidance online.", "repoNote": "See GitHub for source code" },
+    { "name": "PetrolDeliveryApp", "description": "An on-demand petrol delivery solution for convenient fuel access.", "repoNote": "See GitHub for source code" },
+    { "name": "MindMate", "description": "A mental wellness and self-care support application.", "repoNote": "See GitHub for source code" },
+    { "name": "MindMend", "description": "A mental health focused application aimed at emotional wellbeing.", "repoNote": "See GitHub for source code" },
+    { "name": "CurrencyTracker", "description": "A real-time currency exchange tracking application.", "repoNote": "See GitHub for source code" },
+    { "name": "WaterDeliveryApp", "description": "A water delivery management and ordering system.", "repoNote": "See GitHub for source code" },
+    { "name": "AKTIMINI", "description": "A lightweight AI-based application for intelligent assistance.", "repoNote": "See GitHub for source code" },
+    { "name": "Octimini", "description": "An experimental AI-driven mini application showcasing automation and intelligence.", "repoNote": "See GitHub for source code" },
+    { "name": "Cryptocurrency App (Live Crypto Price Reports)", "description": "A real-time cryptocurrency price tracking and reporting application.", "repoNote": "See GitHub for source code" }
+  ],
+
+  "socialLinks": {
+  "github": "https://github.com/halakabir234-hub",
+  "linkedin": "https://www.linkedin.com/in/afia-mother-of-a-young-coder-48519138b/",
+  "youtube": "https://www.youtube.com/@LearnwithHala-r2v",
+  "facebook": "https://www.facebook.com/profile.php?id=61562563944122",
+  "instagram": "https://www.instagram.com/halalearns/",
+  "website": "https://halakabir.dev",
+
+  "devto": "https://dev.to/your-username",
+  "devpost": "https://devpost.com/your-username",
+  "x": "https://x.com/your-username",
+  "discord": "https://discord.gg/your-invite",
+  "tiktok": "https://www.tiktok.com/@your-username"
+  }
+}
